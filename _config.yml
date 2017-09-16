@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /kucingselfie
+baseurl: /
 
 # Site live URL
 url: http://kucingselfie.github.io
