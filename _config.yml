@@ -11,9 +11,9 @@ url: http://kucingselfie.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Kucingselfie
+  name: kucingselfie
   # Little description about your site
-  Still grow up.
+  still grow up
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
